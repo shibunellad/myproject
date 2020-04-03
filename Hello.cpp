@@ -10,3 +10,12 @@ class MyPen
 		void GetPenName();
 };
 
+MyPen::MyPen
+{
+	m_Name = "Default";
+}
+
+MyPen::MyPen(char * Name)
+{
+	m_Name = Name;
+}
