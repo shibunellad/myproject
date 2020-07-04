@@ -19,3 +19,9 @@ MyPen::MyPen(char * Name)
 {
 	m_Name = Name;
 }
+
+void testPen()
+{
+	MyPen* ballPen= new MyPen;
+	ballPen.m_Name = "Reynolds";
+}
