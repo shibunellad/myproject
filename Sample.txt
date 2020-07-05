@@ -1,6 +1,6 @@
 one line
 
-
+second line
 
 commit 2; to be reverted
 
