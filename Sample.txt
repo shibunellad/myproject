@@ -1,8 +1,8 @@
 one line
 
-commit 2; to be reverted
+second line
 
-fifth comit
+commit 2; to be reverted
 
 
 
